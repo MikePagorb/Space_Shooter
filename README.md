@@ -1,6 +1,6 @@
 # Space Shooter Game
 
-![Space Shooter](rocket.png)
+![Space Shooter](rocket.png =100x100)
 
 Welcome to the Space Shooter game! This project is a simple yet engaging space shooter game developed using Pygame. 
 
