@@ -55,10 +55,10 @@ To run the game, you need to have Python and Pygame installed on your system. Fo
 
 ## Screenshots
 
-![Gameplay Screenshot](images/gameplay_screenshot1.png)
+![Gameplay Screenshot](screenshots/gameplay1.png)
 *In-game action showcasing the spaceship shooting at enemies.*
 
-![Gameplay Screenshot](images/gameplay_screenshot2.png)
+![Gameplay Screenshot](screenshots/gameplay2.png)
 *The player dodging incoming enemy ships.*
 
 ## Contributing
